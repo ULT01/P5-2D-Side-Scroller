@@ -49,8 +49,9 @@ function draw() {
     background(255, 185, 0);
     textSize(20);
     fill(255, 50, 205);
-    text('Press "q" to play', 200, 150);
-    text('Press "space" to jump', 200, 250);
+    text('Press "q" to play', 200, 100);
+    text('Press "space" to jump', 180, 200);
+    text('Press "r" to pause the game', 160, 300);
   } else if (sceneNum===1){
   
 
