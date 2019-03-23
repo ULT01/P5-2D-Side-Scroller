@@ -108,6 +108,7 @@ function draw() {
 }
 
 
+
 //  mouseClicked = function() {
 //     person.growBy(10);
 //     person.display();
